@@ -1,0 +1,1962 @@
+[
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "category": 1,
+    "sku": "fw001",
+    "name": "Yoga mid-pants",
+    "description": "As movement is key to yoga, so these pants are body-skimming and flattering yet cut wide over the hips and thighs for a non-restrictive feel on the mat.",
+    "price": "41.52",
+    "rating": "4.00",
+    "image_url": "https://i.ebayimg.com/images/g/uy8AAeSw0qho6HPK/s-l1600.webp",
+    "image": "fitwear1_fkdGcX6.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 2,
+  "fields": {
+    "category": 1,
+    "sku": "fw002",
+    "name": "Neleus women's high-waist capri yoga leggings",
+    "description": "The Neleus women's high-waist capri yoga leggings are made from a moisture-wicking, four-way stretch fabric and feature a supportive high-rise waistband and two deep side pockets. They are designed for comfort and performance in various activities.",
+    "price": "60.50",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/ILsAAOSwtaNmmo6t/s-l1600.webp",
+    "image": "fitwear2_lVXae5Y.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 3,
+  "fields": {
+    "category": 1,
+    "sku": "fw003",
+    "name": "Thermal Legging Etam",
+    "description": "Fine, light and warm, this ultra-soft knit insulates from the cold and allows the skin to breathe, while creating heat: +1 to 3° degrees when worn. Adopt these warm and comfortable leggings, ideal to be worn alone or slipped under your jeans and trousers all winter long.",
+    "price": "33.25",
+    "rating": "3.40",
+    "image_url": "https://i.ebayimg.com/images/g/eEoAAOSwRO5mzk6M/s-l1600.webp",
+    "image": "fitwear3_ULUWI5P.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 4,
+  "fields": {
+    "category": 1,
+    "sku": "fw004",
+    "name": "Rise High Waisted Legging",
+    "description": "The defining feature is the high waistband, which sits higher than mid-rise or low-rise styles. This design ensures the leggings stay in place during movement, preventing them from rolling down or requiring frequent adjustment during workouts or daily activities.",
+    "price": "45.90",
+    "rating": "4.20",
+    "image_url": "https://i.ebayimg.com/images/g/~~kAAeSw4lZpQkcD/s-l1600.webp",
+    "image": "fitwear4_FFbQ90I.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 5,
+  "fields": {
+    "category": 1,
+    "sku": "fw005",
+    "name": "Pacesetter Ultra High Rise 7/8 Legging",
+    "description": "The Athleta Pacesetter Ultra High Rise 7/8 Legging is a high-performance running legging made from supportive, high-to-medium compression fabric designed for comfort and zero distractions during workouts.",
+    "price": "61.77",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/G1oAAeSw8wtpP-IT/s-l500.webp",
+    "image": "fitwear5_8J6jOwM.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 6,
+  "fields": {
+    "category": 1,
+    "sku": "fw006",
+    "name": "Lululemon Wunder Train High Rise 25” with pockets",
+    "description": "The Lululemon Wunder Train High Rise 25\" with pockets leggings are high-performance, compressive tights made from the brand's proprietary, fastest-drying Everlux™ fabric, specifically designed for intense, sweaty workouts.",
+    "price": "54.88",
+    "rating": "3.00",
+    "image_url": "https://i.ebayimg.com/images/g/EwYAAeSwpO5pLnUW/s-l500.webp",
+    "image": "fitwear6_1fQc0zY.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 7,
+  "fields": {
+    "category": 1,
+    "sku": "fw007",
+    "name": "Men Dry Fleece Training Pants",
+    "description": "French terry fabric with Dri-FIT technology moves sweat from your skin for quicker evaporation to help you stay dry and comfortable. The tapered legs mean no loose ends around your feet so you can focus on your workout. The elastic waist with drawcord keeps the pants in place while you move.",
+    "price": "41.00",
+    "rating": "4.40",
+    "image_url": "https://i.ebayimg.com/images/g/2pIAAOSwYaRixwjV/s-l500.webp",
+    "image": "fitwear7_4EZGQo1.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 8,
+  "fields": {
+    "category": 1,
+    "sku": "fw008",
+    "name": "Gym Mens Clothes Workout & Jogging Suit",
+    "description": "The primary feature, is where the fabrics pull sweat away from the skin to the outer surface of the garment, allowing it to evaporate quickly and keeping you dry and comfortable.",
+    "price": "37.25",
+    "rating": "4.30",
+    "image_url": "https://i.ebayimg.com/images/g/OGQAAeSwAtlog7fy/s-l500.webp",
+    "image": "fitwear8_cfsKj5e.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 9,
+  "fields": {
+    "category": 1,
+    "sku": "fw009",
+    "name": "Men's Cotton Yoga Sweatpants in charcoal heather",
+    "description": "The fabric is a blend of 92% cotton and 8% spandex (or elastane in some descriptions), which provides a soft, skin-friendly feel with enough stretch for free movement.The \"charcoal heather\" color is a nice shade of dark grey that reviewers note looks good for casual wear.",
+    "price": "25.75",
+    "rating": "4.80",
+    "image_url": "https://i.ebayimg.com/images/g/E6AAAOSwS6ZkoclG/s-l500.webp",
+    "image": "fitwear9_tHoOCWB.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 10,
+  "fields": {
+    "category": 1,
+    "sku": "fw010",
+    "name": "Yoga Dri-FIT Men's Full-Zip Fleece Hoodie",
+    "description": "Stay warm with this Dry Zip Hoody, crafted with a lightweight material, a full zip fastening and two open hand pockets. To the top is a tie fastening for a snug fit and DriFit technology is integrated to wick sweat away from the body. Nike branding sits to the chest.",
+    "price": "61.00",
+    "rating": "4.30",
+    "image_url": "https://i.ebayimg.com/images/g/3G8AAOSwMh1k8mBH/s-l500.webp",
+    "image": "fitwear10_tNNhchq.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 11,
+  "fields": {
+    "category": 2,
+    "sku": "np001",
+    "name": "Fairlife High Protein Chocolate Nutrition Shake",
+    "description": "The Fairlife High Protein Chocolate Nutrition Shake is a ready-to-drink, shelf-stable beverage made from ultra-filtered milk, providing 30g of high-quality protein and a rich chocolate flavor with only 2g of sugar per serving. It is designed as a convenient meal replacement or post-workout recovery drink.",
+    "price": "55.00",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/t10AAeSwqcRpLdn-/s-l500.webp",
+    "image": "nutritionplan1_7BgJbsV.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 12,
+  "fields": {
+    "category": 2,
+    "sku": "np002",
+    "name": "Core Power Elite High Protein Shake 42g Chocolate",
+    "description": "This beverage serves as the flagship high-intensity offering from Fairlife, specifically engineered for athletes, bodybuilders, and fitness enthusiasts who require a concentrated dose of high-quality protein without the bulk of a full meal.",
+    "price": "57.00",
+    "rating": "4.10",
+    "image_url": "https://i.ebayimg.com/images/g/m3kAAOSwzAdmR2gW/s-l500.webp",
+    "image": "nutritionplan2_F42IkZA.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 13,
+  "fields": {
+    "category": 2,
+    "sku": "np003",
+    "name": "Tone It Up Nutrition Plan book",
+    "description": "The Tone It Up Nutrition Plan is a lifestyle guide by Karena Dawn & Katrina Scott focusing on clean eating, whole foods, and balanced macros with recipes, tips, and community support to promote sustainable health, muscle toning, and confidence",
+    "price": "74.00",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/6gMAAeSwGIZoMKXA/s-l500.webp",
+    "image": "nutritionplan3_YBYAbJG.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 14,
+  "fields": {
+    "category": 2,
+    "sku": "np004",
+    "name": "ProLon 5-Day Fasting Program kit",
+    "description": "The ProLon 5-Day Fasting Program kit is a pre-packaged, plant-based meal plan providing specific foods (soups, bars, snacks, teas, supplements, L-drink) for five days, designed to trick your body into a fasting state to trigger cellular repair (autophagy), offering benefits like weight loss, reduced cravings, and improved energy while still allowing you to eat, without needing actual water fasting, all in precisely portioned daily boxes.",
+    "price": "169.95",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/6MoAAeSwi7FpEXSj/s-l500.webp",
+    "image": "nutritionplan4_ZEwQKfb.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 15,
+  "fields": {
+    "category": 2,
+    "sku": "np005",
+    "name": "The Personalized Autism Nutrition Plan",
+    "description": "The Personalized Autism Nutrition Plan, by Julie Matthews, is a comprehensive guide for parents to create individualized dietary strategies for kids with Autism Spectrum Disorder (ASD), ADHD, and other developmental issues, focusing on therapeutic diets (like GFCF) and supplements to address biochemical imbalances, offering meal plans, recipes, and symptom tools to improve health and well-being.",
+    "price": "21.95",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/COwAAeSwir1pSVDD/s-l500.webp",
+    "image": "nutritionplan5_215kad7.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 16,
+  "fields": {
+    "category": 2,
+    "sku": "np006",
+    "name": "The Testosterone Advantage Nutrition Plan",
+    "description": "The book serves as a guide for men that challenges mainstream health assumptions of its era, particularly those regarding low-fat dieting and cardiovascular-heavy exercise. \r\nThe book’s central thesis is that men have been \"overlooked and misled\" by the fitness industry, which often promotes \"women-centered\" diets and workout routines that are at odds with male physiology.",
+    "price": "14.00",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/iigAAeSwVuppI4Ks/s-l500.webp",
+    "image": "nutritionplan6_89hdrRf.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 17,
+  "fields": {
+    "category": 2,
+    "sku": "np007",
+    "name": "Nutrisystem Protein 5-Day Weight Loss Meals Variety Kit",
+    "description": "The Nutrisystem Protein 5-Day Variety Kit is a convenient, ready-to-go meal plan with 20 shelf-stable items (5 breakfasts, 5 lunches, 5 dinners, 5 snacks) featuring protein-rich foods (up to 16g protein) designed to keep you full, support weight loss with balanced meals, and includes app support, offering classics like Chicken Pasta Parmesan, Veggie Chili, bars, and soups for a simple start with fresh food additions.",
+    "price": "29.00",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/dnsAAOSwJyRmJmdM/s-l500.webp",
+    "image": "nutritionplan7_6Z8gtjC.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 18,
+  "fields": {
+    "category": 2,
+    "sku": "np008",
+    "name": "P90X Extreme Home Fitness Nutrition Plan book",
+    "description": "The P90X Extreme Home Fitness Nutrition Plan book is a comprehensive guide that provides detailed meal plans, recipes, and guidance designed to support the intense P90X workout program by fueling the body for optimal performance and recovery. It emphasizes clean eating, portion control, and balanced nutrition, adapting the macronutrient balance across three distinct phases that align with the program's evolving workout demands.",
+    "price": "15.00",
+    "rating": "4.50",
+    "image_url": "https://i.ebayimg.com/images/g/OfkAAeSwxC5oytUw/s-l500.webp",
+    "image": "nutritionplan8_8K7nyXX.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 19,
+  "fields": {
+    "category": 2,
+    "sku": "np009",
+    "name": "Circuit Burnout 90 X-TrainFit Home Fitness",
+    "description": "This box set is designed to deliver a high-energy, up-tempo transformation by combining cardiovascular intervals with muscle toning to shred fat and build lean muscle.",
+    "price": "20.35",
+    "rating": "4.30",
+    "image_url": "https://i.ebayimg.com/images/g/81EAAeSwe~xoDZgj/s-l500.webp",
+    "image": "nutritionplan9_k0LQXR3.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 20,
+  "fields": {
+    "category": 2,
+    "sku": "np010",
+    "name": "A 6-Week Workout and Nutrition Plan",
+    "description": "A 6-Week Workout & Nutrition Plan is a structured program to build fitness, lose fat, or gain muscle, typically blending strength training (like bodyweight/weights on push/pull/legs splits), cardiovascular exercise (HIIT/LISS), mobility/rest days, and a focused diet rich in lean protein, complex carbs, healthy fats, and hydration, progressing in intensity over the six weeks to boost stamina and strength.",
+    "price": "17.25",
+    "rating": "4.40",
+    "image_url": "https://i.ebayimg.com/images/g/XaYAAOSwrcFl4SaT/s-l500.webp",
+    "image": "nutritionplan10_zuelCtr.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 21,
+  "fields": {
+    "category": 2,
+    "sku": "np011",
+    "name": "The Disconnected Kids Nutrition Plan",
+    "description": "This is a science-based approach to feeding children with special needs (Autism, ADHD, etc.) by linking nutrition to brain health, focusing on specific vitamins, healthy fats, proteins, and eliminating triggers like gluten/casein through an elimination diet, offering kid-friendly recipes and strategies to manage picky eating and sensory issues for better learning and focus, all within the context of his larger Brain Balance method.",
+    "price": "19.25",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/ScwAAOSwax5YrH5i/s-l500.webp",
+    "image": "nutritionplan11_zZafbHT.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 22,
+  "fields": {
+    "category": 2,
+    "sku": "np012",
+    "name": "7-Minute Body Plan",
+    "description": "It's designed for busy people, requiring no equipment and offering flexibility with high/low-impact options, making fitness accessible at home or office.",
+    "price": "22.75",
+    "rating": "4.30",
+    "image_url": "https://i.ebayimg.com/images/g/GRIAAeSwq49pSG8a/s-l500.webp",
+    "image": "nutritionplan12_UotuXvH.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 23,
+  "fields": {
+    "category": 2,
+    "sku": "np013",
+    "name": "Protein Diet Plan for Weight Loss",
+    "description": "A protein diet plan for weight loss focuses on increasing protein intake (around 25-35% of calories) from lean sources like meat, fish, eggs, dairy, tofu, and legumes, while moderating carbs and fats to boost fullness, curb cravings, and preserve muscle mass during fat loss.",
+    "price": "12.96",
+    "rating": "3.50",
+    "image_url": "https://i.ebayimg.com/images/g/LagAAeSwEHpoWaDz/s-l500.webp",
+    "image": "nutritionplan13_SuDOOyA.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 24,
+  "fields": {
+    "category": 2,
+    "sku": "np014",
+    "name": "The HCG Diet Plan",
+    "description": "The HCG diet is a rigorous and controversial approach to weight loss. Due to the high risk of medical complications, it is strongly recommended that anyone considering it first consult with a healthcare professional to explore safer, more sustainable alternatives like the Mediterranean diet or a USDA-guided balanced meal plan.",
+    "price": "32.69",
+    "rating": "4.90",
+    "image_url": "https://i.ebayimg.com/images/g/Vy4AAeSwsb5oeluN/s-l500.webp",
+    "image": "nutritionplan14_kvuPs7V.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 25,
+  "fields": {
+    "category": 2,
+    "sku": "np015",
+    "name": "The Prepper's Pantry Handbook: How to Plan and Cook Nutritional Emergency Meals",
+    "description": "The Prepper's Pantry Handbook is a guide for creating and cooking nutritious emergency meals, moving beyond basic survival rations to focus on wholesome, tasty food for crises like blackouts or natural disasters, covering food storage, rotation, preservation (canning, drying), personalized plans, and recipes for healthy eating during emergencies",
+    "price": "15.20",
+    "rating": "1.00",
+    "image_url": "https://i.ebayimg.com/images/g/57wAAeSwzm5pSCxr/s-l500.webp",
+    "image": "nutritionplan15_a9UBFcK.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 26,
+  "fields": {
+    "category": 2,
+    "sku": "np016",
+    "name": "Youngevity Aloe Vera Vitamins & Minerals",
+    "description": "The core function of this supplement is to soothe the digestive tract. By preparing the inner lining of the stomach and intestines, it helps maximize the absorption of vitamins and minerals from both food and other supplements.",
+    "price": "84.00",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/magAAeSwNyto9qYv/s-l500.webp",
+    "image": "nutritionplan16_yHcZQIh.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 27,
+  "fields": {
+    "category": 2,
+    "sku": "np017",
+    "name": "Sowelo D-Aspartic Acid dietary supplements",
+    "description": "The capsules typically contain DAA with fillers like microcrystalline cellulose and are a convenient alternative to powder for those seeking performance and regenerative support, enhance muscle growth, improve strength and boost recovery.",
+    "price": "59.99",
+    "rating": "4.60",
+    "image_url": "https://i.ebayimg.com/images/g/RDsAAOSweUtn8GV4/s-l500.webp",
+    "image": "nutritionplan17_Ia5go7w.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 28,
+  "fields": {
+    "category": 2,
+    "sku": "np018",
+    "name": "Menxi L-Carnitine supplements",
+    "description": "L-carnitine is a naturally occurring, amino-acid-like compound that plays a pivotal role in your body's energy production, and Menxi L-Carnitine supplements are designed to enhance this process by providing a concentrated dose of this vital nutrient.",
+    "price": "34.20",
+    "rating": "4.90",
+    "image_url": "https://i.ebayimg.com/images/g/95EAAOSwqHxlvLcu/s-l500.webp",
+    "image": "nutritionplan18_0kPL5mU.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 29,
+  "fields": {
+    "category": 2,
+    "sku": "np019",
+    "name": "DripDrop Electrolyte Hydration Powdered Drink",
+    "description": "It contains the sodium electrolyte levels and lower glucose content required to facilitate fast fluid absorption, AND it tastes great. Packed with essential electrolytes like sodium, potassium, and magnesium, plus zinc and vitamin C for immune support, it's an effective rehydration solution.",
+    "price": "45.00",
+    "rating": "4.80",
+    "image_url": "https://i.ebayimg.com/images/g/YdkAAeSwpkFo0d2n/s-l500.webp",
+    "image": "nutritionplan19_wRIj7Is.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 30,
+  "fields": {
+    "category": 2,
+    "sku": "np020",
+    "name": "OstroVit Triple Magnesium",
+    "description": "It is a supplement providing magnesium in three highly absorbable forms designed to support muscle function, nervous system health, electrolyte balance, energy, and reduce fatigue, ideal for active or stressed individuals needing comprehensive magnesium support.",
+    "price": "7.99",
+    "rating": "4.80",
+    "image_url": "https://i.ebayimg.com/images/g/3XMAAeSwUJJokKEQ/s-l500.webp",
+    "image": "nutritionplan20_b50AsP3.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 31,
+  "fields": {
+    "category": 3,
+    "sku": "fp001",
+    "name": "KiNGKANG Power Tower home gym equipment",
+    "description": "The K KiNGKANG Power Tower is a versatile, multi-functional piece of home gym equipment designed primarily for bodyweight strength training and calisthenics. It is engineered to provide a comprehensive full-body workout in a single, relatively compact station, making it a popular choice for individuals looking to build muscle or maintain fitness without a gym membership.",
+    "price": "179.00",
+    "rating": "4.00",
+    "image_url": "https://i.ebayimg.com/images/g/hSgAAOSwadhoU3G3/s-l500.webp",
+    "image": "fitproduct1_Q2U5Sn9.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 32,
+  "fields": {
+    "category": 3,
+    "sku": "fp002",
+    "name": "Flexicon Resistance Door Gym Shogun FLEX Portable",
+    "description": "The Shogun FLEX Portable Smart Resistance Trainer is an ultra-portable, app-controlled cable resistance device that functions as an on-demand, full-body gym. It is designed for use virtually anywhere, including at home (using a door anchor or rack mount), and is TSA-approved for travel.",
+    "price": "152.50",
+    "rating": "4.80",
+    "image_url": "https://i.ebayimg.com/images/g/VIsAAOSwaUtnntTo/s-l500.webp",
+    "image": "fitproduct2_grK1E1r.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 33,
+  "fields": {
+    "category": 3,
+    "sku": "fp003",
+    "name": "Dumbbells Machine Based Resistance Exercises",
+    "description": "Resistance training with adjustable dumbbells represents a versatile approach to fitness that bridges the gap between traditional free weights and complex weight machines. These tools provide constant gravitational resistance, allowing users to perform a vast array of exercises targeting virtually every major muscle group in the body.",
+    "price": "129.00",
+    "rating": "4.60",
+    "image_url": "https://i.ebayimg.com/images/g/Or4AAOSw91NnntTd/s-l500.webp",
+    "image": "fitproduct3_eKKeFo7.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 34,
+  "fields": {
+    "category": 3,
+    "sku": "fp004",
+    "name": "Titan Fitness Accessory Kit",
+    "description": "It is a bundle of add-ons to expand workout variety, featuring items such as a cushioned pad for hip thrusts/chest rows, a T-bar handle for deadlifts, a plate-loading pin, J-cups, and a non-slip footplate.",
+    "price": "180.00",
+    "rating": "4.30",
+    "image_url": "https://i.ebayimg.com/images/g/ny4AAeSwdKNnx3Us/s-l500.webp",
+    "image": "fitproduct4_9LZQ08Y.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 35,
+  "fields": {
+    "category": 3,
+    "sku": "fp005",
+    "name": "Cable Machine Fitness Pulley",
+    "description": "It is a versatile piece of strength-training equipment that uses cables, pulleys, and adjustable weights to provide consistent tension and resistance throughout an entire range of motion. This system allows for a wide variety of exercises targeting all major muscle groups and is valued for its safety and adaptability.",
+    "price": "17.13",
+    "rating": "4.40",
+    "image_url": "https://i.ebayimg.com/images/g/iJgAAOSwzo5m6Wbz/s-l500.webp",
+    "image": "fitproduct5_pTkkJoA.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 36,
+  "fields": {
+    "category": 3,
+    "sku": "fp006",
+    "name": "Twister Arm Trainer",
+    "description": "Unlike traditional arm exercise bars, the Twister Arm Trainer is designed to effectively work a variety of muscle groups at once. It targets areas like the chest, wrists, arms, back, legs, and shoulders, helping you achieve a balanced and efficient strength training routine.",
+    "price": "35.40",
+    "rating": "3.90",
+    "image_url": "https://i.ebayimg.com/images/g/B0IAAeSw1xFpEvMF/s-l500.webp",
+    "image": "fitproduct6_xSxYjZk.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 37,
+  "fields": {
+    "category": 3,
+    "sku": "fp007",
+    "name": "Dual-function incline chest fly machine",
+    "description": "Allows users to target the upper chest with incline fly movements and the rear shoulders with reverse fly exercises on the same machine, offering a compact way to build balanced upper body strength with adjustable seats and smooth, controlled motions for focused muscle development.",
+    "price": "249.50",
+    "rating": "4.80",
+    "image_url": "https://i.ebayimg.com/images/g/MyoAAeSwdp9ov5i0/s-l500.webp",
+    "image": "fitproduct7_wmsRxma.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 38,
+  "fields": {
+    "category": 3,
+    "sku": "fp008",
+    "name": "BaseBlocks Bars and Yoga Blocks Black",
+    "description": "It  is a hybrid, portable fitness set designed for combining strength training and stretching exercises at home. It consists of parallel bars (parallettes) that attach to a foam base for use as yoga blocks.",
+    "price": "380.00",
+    "rating": "4.30",
+    "image_url": "https://i.ebayimg.com/images/g/6L4AAeSw5bVof8mv/s-l500.webp",
+    "image": "fitproduct8_RNssoUo.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 39,
+  "fields": {
+    "category": 3,
+    "sku": "fp009",
+    "name": "Rogers Athletic Tred Sled",
+    "description": "It is an innovative piece of sports performance equipment that merges a traditional football sled with interactive treadmill technology, allowing athletes to train for speed, power, and explosiveness by pushing or pulling against adjustable resistance.",
+    "price": "499.00",
+    "rating": "4.50",
+    "image_url": "https://i.ebayimg.com/images/g/k6UAAeSwUqVoxOL4/s-l500.webp",
+    "image": "fitproduct9_9Q2HYGe.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 40,
+  "fields": {
+    "category": 3,
+    "sku": "fp010",
+    "name": "HomeFitnessCode Q2 Pro smart treadmill",
+    "description": "It is a compact, low-noise, brushless motor walking pad/treadmill designed for home use, offering speeds up to 10KPH (6 MPH) for walking or light jogging, ideal for under-desk use or small spaces, featuring an LED display for stats (time, distance, calories, speed), easy remote control.",
+    "price": "250.00",
+    "rating": "4.90",
+    "image_url": "https://ie.homefitnesscode.com/cdn/shop/files/Q2-B_1.png?v=1719370082&width=1214",
+    "image": "fitproduct10_bUTq4jt.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 41,
+  "fields": {
+    "category": 3,
+    "sku": "fp011",
+    "name": "NXTPRO Foldable Push Up Board",
+    "description": "It is a multifunctional, 22-in-1 strength training system designed to optimize upper-body workouts through a versatile, color-coded guiding mechanism. This piece of equipment is engineered for users looking to replace several bulky gym machines with a single, portable solution that targets specific muscle groups with precision.",
+    "price": "55.14",
+    "rating": "4.40",
+    "image_url": "https://i.ebayimg.com/images/g/ExoAAOSwNQtnQI4v/s-l500.webp",
+    "image": "fitproduct11_eZhi1UQ.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 42,
+  "fields": {
+    "category": 3,
+    "sku": "fp012",
+    "name": "Philosophy Gym Rubber Coated Hex Dumbbell",
+    "description": "It is a knurled ergonomic handle for a comfortable, secure grip. The hexagon shaped heads on each end prevent rolling during your workout and provide an easy storage option when they are not in use. The dumbbells are marked in pounds to easily identify during your workout.",
+    "price": "259.00",
+    "rating": "4.40",
+    "image_url": "https://i.ebayimg.com/images/g/NEIAAeSwCnZoL1N0/s-l500.webp",
+    "image": "fitproduct12_1ZW7JoY.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 43,
+  "fields": {
+    "category": 3,
+    "sku": "fp013",
+    "name": "PowerBlock Sport 50 Adjustable Dumbbell Set",
+    "description": "It provides a versatile, space-saving strength training solution with a weight range of 10 to 50 lbs per hand, adjustable in 5 lb increments. Its durable steel construction and unique, compact design make it a popular choice for home gyms.",
+    "price": "193.00",
+    "rating": "4.60",
+    "image_url": "https://i.ebayimg.com/images/g/BjcAAeSw2FBpSTW4/s-l500.webp",
+    "image": "fitproduct13_7MqMynd.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 44,
+  "fields": {
+    "category": 3,
+    "sku": "fp014",
+    "name": "Philosophy Gym Neoprene Dumbbell",
+    "description": "They are solid cast iron weights coated in a durable, soft-touch neoprene finish designed for comfort, floor protection, and an anti-roll function.",
+    "price": "15.65",
+    "rating": "4.80",
+    "image_url": "https://i.ebayimg.com/images/g/UbgAAeSwVshoL7la/s-l500.webp",
+    "image": "fitproduct14_5egH4kW.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 45,
+  "fields": {
+    "category": 3,
+    "sku": "fp015",
+    "name": "Jump Rope",
+    "description": "A jump rope is a deceptively simple yet extraordinarily versatile tool used for both recreational play and intense physical conditioning. It consists of a length of cord, often featuring handles at either end, that is swung in a circular motion over the head and under the feet, requiring the user to leap over it each time it passes.",
+    "price": "22.00",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/wyEAAOSwgaVjwQJw/s-l500.webp",
+    "image": "fitproduct15_FTLBTTB.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 46,
+  "fields": {
+    "category": 3,
+    "sku": "fp016",
+    "name": "RDX Multi-Function Digital Jump Rope",
+    "description": "Equipped with non-slip, ergonomic ABS handles, RDX's digital jump ropes offer a comfortable and secure grip, allowing you to push yourself further during workouts. The integrated HD LED display with timer, calorie, and jump counter provides an accurate overview of your training sessions and keeps you motivated.",
+    "price": "15.99",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/7G0AAOSwhTRf5JtL/s-l500.webp",
+    "image": "fitproduct16_h55k6oa.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 47,
+  "fields": {
+    "category": 3,
+    "sku": "fp017",
+    "name": "Titan Gladiator bench press shirt",
+    "description": "The Titan Gladiator bench press shirt is a single-ply, supportive powerlifting shirt designed to enhance performance during the bench press while remaining easier to use than more advanced shirts, making it ideal for high school powerlifters and those new to equipped lifting.",
+    "price": "205.00",
+    "rating": "4.30",
+    "image_url": "https://i.ebayimg.com/images/g/9wIAAOSwR-5jk2WF/s-l500.webp",
+    "image": "fitproduct17_Jm2Cqyy.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 48,
+  "fields": {
+    "category": 3,
+    "sku": "fp018",
+    "name": "Adjustable weight bench with a barbell rack",
+    "description": "It is a versatile, all-in-one piece of home gym equipment designed for performing a wide range of strength training exercises safely and comfortably. It features a robust steel frame and an adjustable padded bench, combined with an integrated and often height-adjustable rack for holding a barbell.",
+    "price": "180.00",
+    "rating": "4.40",
+    "image_url": "https://i.ebayimg.com/images/g/IoQAAOSwkvNl6TUW/s-l500.webp",
+    "image": "fitproduct18_skF9S2G.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 49,
+  "fields": {
+    "category": 3,
+    "sku": "fp019",
+    "name": "Lululemon Take Form Yoga Mat",
+    "description": "It is known for its unique 3D texture with raised ripples and zones that provide tactile cues for hand/foot placement, enhancing alignment and focus, especially for at-home practice, built on a cushioned natural rubber base for grip and joint support.",
+    "price": "68.00",
+    "rating": "4.90",
+    "image_url": "https://i.ebayimg.com/images/g/puQAAOSwM-FoK-HP/s-l500.webp",
+    "image": "fitproduct19_YYM8QnV.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 50,
+  "fields": {
+    "category": 3,
+    "sku": "fp020",
+    "name": "Heathyoga non-slip microfiber yoga towel",
+    "description": "Microfiber and Silicone coating combination is the latest technological improvement to the traditional single microfiber yoga towel. The specially designed \"grip-grid\" texture ensures stability and helps you hold poses longer and sturdier. Exclusive Corner Pockets Design: No more repositioning or distractions.",
+    "price": "17.80",
+    "rating": "4.40",
+    "image_url": "https://i.ebayimg.com/images/g/Ps4AAeSwH~5o7epN/s-l500.webp",
+    "image": "fitproduct20_Q1pI42g.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 51,
+  "fields": {
+    "category": 3,
+    "sku": "fp021",
+    "name": "Pilates Swiss Ball",
+    "description": "The swiss ball brings a variety of movements and benefits, with a focus on improving your balance, muscle tone and core strength. Introducing the swiss ball changes the position of the body, incorporating different muscles to challenge your body to move in new ranges of movement.",
+    "price": "30.00",
+    "rating": "4.60",
+    "image_url": "https://i.ebayimg.com/images/g/tRUAAeSwyNdpCXDb/s-l500.webp",
+    "image": "fitproduct21_UhYdsZ9.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 52,
+  "fields": {
+    "category": 3,
+    "sku": "fp022",
+    "name": "Medicine Ball Rack",
+    "description": "The Medicine Ball Rack is the ultimate space saving solution for any gym. By stacking your balls vertically, you take up the least amount of room and also allow for you to utilise your entire gym area. It allows gym-owners to maximise space and maintain a large work-out area.",
+    "price": "690.00",
+    "rating": "4.00",
+    "image_url": "https://i.ebayimg.com/images/g/KOkAAeSwOsFosHQq/s-l500.webp",
+    "image": "fitproduct22_DDTeEDd.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 53,
+  "fields": {
+    "category": 3,
+    "sku": "fp023",
+    "name": "Inpany Peanut Ball",
+    "description": "The Peanut Ball is made of professional grade non-toxic PVC material, free of BPA & heavy metals. It has a non-slip surface and you can do exercise without slipping. Safe for pregnant mothers. Our good quality PVC exercise ball, it is exactly safe, durable, and long life.",
+    "price": "30.25",
+    "rating": "4.70",
+    "image_url": "https://i.ebayimg.com/images/g/IDgAAOSwnXtnkAMW/s-l500.webp",
+    "image": "fitproduct23_MPPV30j.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 54,
+  "fields": {
+    "category": 3,
+    "sku": "fp024",
+    "name": "Bolt Strength Cast Iron Kettlebell",
+    "description": "Bolt Strength Cast Iron Kettlebells are premium, durable fitness tools featuring a smooth, rust-resistant powder-coat finish, ergonomic handles for comfort, and a classic design that looks good in any home or gym setting.",
+    "price": "41.00",
+    "rating": "4.80",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSRDYElyysIklNbecuvjx4KmDD0fjrEIQ0z1wymuQAXPs-_s1Icp1tM59rmKCeocMx5F9ZhuGe_N3LYsJwAsaSYfCrtmOwJO9kDlKAcCp7wCu2JVaaWqqz0z77J9VsPqs_qkmB7G34&usqp=CAc",
+    "image": "fitproduct24_tZv8TuN.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 55,
+  "fields": {
+    "category": 3,
+    "sku": "fp025",
+    "name": "Full Home Gym Equipment",
+    "description": "Home gym equipment typically includes a variety of items designed to provide a full-body workout in a compact space.",
+    "price": "349.00",
+    "rating": "5.00",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_sEGq_FWPt0LNoDFKbsADVGYHa5OFSsWF2w&s",
+    "image": "full_fit_set_CGiv8nN.jpeg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 56,
+  "fields": {
+    "category": 4,
+    "sku": "fbr001",
+    "name": "Resistance Band Training",
+    "description": "Resistance band training is an excellent, effective and smart workout solution that everyone can benefit from. If you are interested in fitness of any kind, be it fat loss, muscle toning, functional training or general wellbeing, owning a set of resistance bands is a must!",
+    "price": "17.05",
+    "rating": "4.00",
+    "image_url": "https://i.ebayimg.com/images/g/7FUAAeSwMFZokkvj/s-l500.webp",
+    "image": "exerciseplan1_WseWjfC.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 57,
+  "fields": {
+    "category": 4,
+    "sku": "fbr002",
+    "name": "Wall Pilates Workout Cards",
+    "description": "It's a complete training system designed for women over 50, beginners, and even seniors, with clear guidance for every fitness level. Each card includes a detailed illustration, written instructions, and a Pilates video for home workouts via QR code—just scan and move.",
+    "price": "24.28",
+    "rating": "4.40",
+    "image_url": "https://i.ebayimg.com/images/g/EGEAAeSwUOtpHVW1/s-l500.webp",
+    "image": "exerciseplan2_m2VmjiQ.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 58,
+  "fields": {
+    "category": 4,
+    "sku": "fbr003",
+    "name": "Chair Yoga for Weight Loss & Toning",
+    "description": "It's a complete training system designed for women over 50, beginners, and even seniors, with clear guidance for every fitness level. Each card includes a detailed illustration, written instructions, and a Pilates video for home workouts via QR code—just scan and move.",
+    "price": "38.56",
+    "rating": "4.40",
+    "image_url": "https://i.ebayimg.com/images/g/bCMAAeSwrW5pBeAQ/s-l500.webp",
+    "image": "exerciseplan3_XLd2Z6r.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 59,
+  "fields": {
+    "category": 4,
+    "sku": "fbr004",
+    "name": "Strength Training on the Ball",
+    "description": "It is not a distinct type of strength training in itself, but rather a method of enhancing existing bodyweight and free-weight exercises by introducing an unstable surface, which forces constant core engagement and improves balance, coordination, and functional strength.",
+    "price": "47.00",
+    "rating": "4.50",
+    "image_url": "https://i.ebayimg.com/images/g/EQ4AAOSwJ0VnWgFc/s-l500.webp",
+    "image": "exerciseplan4.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 60,
+  "fields": {
+    "category": 4,
+    "sku": "fbr005",
+    "name": "Dumbbell Training Exercises",
+    "description": "It contains instruction on uses of free weights for strength, muscle building, balance, and endurance, offering versatility through exercises like presses, squats, and curls, and uniquely allowing unilateral (one-sided) work to correct imbalances, activate more stabilizer muscles, and improve functional strength through greater range of motion compared to machines or barbells.",
+    "price": "24.95",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/JvYAAeSwt5pokkji/s-l500.webp",
+    "image": "exerciseplan5_NB8TyzW.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 61,
+  "fields": {
+    "category": 4,
+    "sku": "fbr006",
+    "name": "Chair Yoga for Weight Loss",
+    "description": "It contains information about uses of modified yoga poses, breathwork, and mindful movements in a chair to build strength, boost metabolism, burn calories, reduce stress (which impacts appetite), improve circulation, and tone muscles.",
+    "price": "17.40",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/1zUAAeSwkeZo-4KP/s-l500.webp",
+    "image": "exerciseplan6_iEwZnTF.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 62,
+  "fields": {
+    "category": 4,
+    "sku": "fbr007",
+    "name": "Jane Fonda's Workout: Fast Abs Sculpt",
+    "description": "It is a focused DVD featuring four distinct, 10-12 minute ab routines led by Team Fonda designed to define and strengthen your midsection using varied approaches like cardio bursts, yoga-inspired core work, dynamic Pilates, and deep sculpting.",
+    "price": "188.00",
+    "rating": "2.80",
+    "image_url": "https://i.ebayimg.com/images/g/MmoAAOSwljNl1cxj/s-l500.webp",
+    "image": "exerciseplan7_hZsFujh.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 63,
+  "fields": {
+    "category": 4,
+    "sku": "fbr008",
+    "name": "52 Exercise Ball Fitness Cards",
+    "description": "They are a deck of playing cards featuring effective stability ball exercises, designed by military fitness expert Sergeant Volkin, that transform workouts into fun games for solo or group fitness, offering instant workout creation.",
+    "price": "47.00",
+    "rating": "4.30",
+    "image_url": "https://i.ebayimg.com/images/g/XpoAAeSwXzppR4AO/s-l500.webp",
+    "image": "exerciseplan8_5sfXn6M.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 64,
+  "fields": {
+    "category": 4,
+    "sku": "fbr009",
+    "name": "Science of Strength Training",
+    "description": "It explains how muscles adapt and grow stronger by applying resistance, covering the physiology of muscle growth from micro-tears and repair, neurological factors, and biomechanics, all underpinned by principles like progressive overload, specificity, and recovery.",
+    "price": "23.20",
+    "rating": "4.70",
+    "image_url": "https://i.ebayimg.com/images/g/ticAAOSwF5loMH~3/s-l500.webp",
+    "image": "exerciseplan9_o1zcMtn.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 65,
+  "fields": {
+    "category": 4,
+    "sku": "fbr010",
+    "name": "Leslie Sansone's Walk Slim: Fast & Firm",
+    "description": "It is a home fitness DVD blending brisk indoor walking with resistance band toning, offering a total-body workout to burn calories and sculpt muscles using simple, effective moves.",
+    "price": "15.30",
+    "rating": "4.80",
+    "image_url": "https://i.ebayimg.com/images/g/iC4AAOSwgZdkzNSb/s-l500.webp",
+    "image": "exerciseplan10_mQtbnpL.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 66,
+  "fields": {
+    "category": 4,
+    "sku": "fbr011",
+    "name": "Royal Canadian Air Force Exercise Plans",
+    "description": "It is a classic, no-equipment fitness routines designed for efficiency, taking 11-12 minutes daily to build full-body fitness through calisthenics and aerobic work, progressing across charts of increasing difficulty for sustained physical and mental health, adaptable for any location.",
+    "price": "11.36",
+    "rating": "4.50",
+    "image_url": "https://i.ebayimg.com/images/g/8OAAAOSwC7NgAB05/s-l500.jpg",
+    "image": "exerciseplan11_401pRcc.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 67,
+  "fields": {
+    "category": 4,
+    "sku": "fbr012",
+    "name": "Home Workout for Beginners",
+    "description": "It aims for functional fitness, improving everyday movements, and can be adapted to short sessions or structured plans with options for light weights as you advance.",
+    "price": "31.80",
+    "rating": "4.60",
+    "image_url": "https://i.ebayimg.com/images/g/jroAAeSwVRRpJCek/s-l500.jpg",
+    "image": "exerciseplan12_ZVljMCN.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 69,
+  "fields": {
+    "category": 4,
+    "sku": "fbr013",
+    "name": "Ride Your Way Lean",
+    "description": "It is a comprehensive cycling and nutrition guide from Bicycling magazine, offering training plans and sensible eating advice to help readers lose significant weight by using cycling for fat burning, improving fitness, and boosting metabolism.",
+    "price": "11.99",
+    "rating": "4.20",
+    "image_url": "https://i.ebayimg.com/images/g/w1YAAeSwKUlpORFH/s-l500.webp",
+    "image": "exerciseplan13_vQU4amu.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 70,
+  "fields": {
+    "category": 4,
+    "sku": "fbr014",
+    "name": "30-Days Training Exercise",
+    "description": "These programs aim to build speed, power, strength, agility, and endurance, leading to sustainable healthy habits and improved real-world physical capability within a structured one-month timeframe.",
+    "price": "41.50",
+    "rating": "4.50",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHElSxUg_D4qauO89wsDKhWiDXOlm_BeaDpg&s",
+    "image": "exerciseplan14_HxttpOO.jpeg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 71,
+  "fields": {
+    "category": 4,
+    "sku": "fbr015",
+    "name": "Fitness Over 40",
+    "description": "It delivers a comprehensive method for staying in shape and improving the energy levels that may decline from aging. Find a six-week plan specially geared toward anyone over 40 looking to improve strength, balance, flexibility, and endurance.",
+    "price": "47.00",
+    "rating": "4.10",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyf-46ic56gQF_3nsY-R8SkQM9QNudtAclNw&s",
+    "image": "exerciseplan15_oIEY32G.jpeg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 72,
+  "fields": {
+    "category": 5,
+    "sku": "fab001",
+    "name": "Balance and Flexibility for Strong Healthy Aging",
+    "description": "It describes a program or guide offering quick, daily routines (around 15 mins) with simple exercises (like single-leg stands, stretches) and detailed illustrations to improve seniors' stability, mobility, and independence, reducing fall risk and stiffness.",
+    "price": "21.40",
+    "rating": "4.60",
+    "image_url": "https://i.ebayimg.com/images/g/V7IAAeSwHj1pSDhE/s-l500.webp",
+    "image": "flex-bal1_gQoWbc6.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 73,
+  "fields": {
+    "category": 5,
+    "sku": "fab002",
+    "name": "Balance Training: Stability Workouts for Core Strength",
+    "description": "Your core and foundational muscles will never be weak and flabby again. This book takes balance training to the next level, providing the benefits of yoga and Pilates as well as strength and core training—all in one easy-to-follow program.",
+    "price": "16.70",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/dHAAAOSwtGlZKWmF/s-l500.webp",
+    "image": "flex-bal2_Yp0e6F7.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 74,
+  "fields": {
+    "category": 5,
+    "sku": "fab003",
+    "name": "Flexibility and Balance for Over Ages",
+    "description": "This publication provides a comprehensive roadmap for older adults who wish to navigate the natural changes of aging with grace, safety, and renewed vigor.",
+    "price": "27.70",
+    "rating": "4.60",
+    "image_url": "https://i.ebayimg.com/images/g/iU8AAeSwULxpNgSb/s-l500.webp",
+    "image": "flex-bal3_HrlJ3kW.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 75,
+  "fields": {
+    "category": 5,
+    "sku": "fab004",
+    "name": "Balance and Your Body",
+    "description": "Falling is not a normal part of aging. It is a sign that your body needs attention. You have the power to change that narrative—starting today. We all know that balance declines as we age, but few people understand why it happens or how easily it can be fixed.",
+    "price": "15.99",
+    "rating": "4.20",
+    "image_url": "https://i.ebayimg.com/images/g/5j4AAeSw9iJpSHjp/s-l500.webp",
+    "image": "flex-bal4_brJFjGr.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 76,
+  "fields": {
+    "category": 5,
+    "sku": "fab005",
+    "name": "Maintaining Body Balance: Flexibility & Stability",
+    "description": "A collection of tried and tested, effective and safe techniques and exercises for relaxing muscles in spasm and easing associated muscular pain. All the exercises included can be done at home without assistance from anyone else.",
+    "price": "29.99",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/ZisAAeSw~R1odXFM/s-l500.webp",
+    "image": "flex-bal5_S6qtrfH.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 77,
+  "fields": {
+    "category": 5,
+    "sku": "fab006",
+    "name": "Strength Training for Seniors",
+    "description": "Strength Training for Seniors outlines the physical and mental benefits that arise from instituting a strength training program, and includes instructions for numerous different exercises that will: Improve balance and decrease fear of falling. Increase self-esteem and independence.",
+    "price": "16.20",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/G5kAAeSwQI5of9o7/s-l500.webp",
+    "image": "flex-bal6_ZeWqeWC.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 78,
+  "fields": {
+    "category": 5,
+    "sku": "fab007",
+    "name": "Integrated Balance Training",
+    "description": "It remains a foundational resource in the fitness industry, primarily known for its comprehensive approach to improving stability, proprioception, and functional movement.",
+    "price": "20.99",
+    "rating": "3.70",
+    "image_url": "https://i.ebayimg.com/images/g/eowAAeSwLSFovwBm/s-l500.webp",
+    "image": "flex-bal7_btKQoLH.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 79,
+  "fields": {
+    "category": 5,
+    "sku": "fab008",
+    "name": "Enhancing Stability: Quick and Easy 10-Minute Balance Workout",
+    "description": "This thoughtful exercise manual is designed to cater to the unique needs of seniors, offering gentle and effective routines to enhance stability. Discover a wealth of exercises tailored specifically for mature bodies, focusing on balance, flexibility, and overall well-being.",
+    "price": "17.00",
+    "rating": "4.60",
+    "image_url": "https://i.ebayimg.com/images/g/DCgAAeSwrTlpNJWh/s-l500.webp",
+    "image": "flex-bal8_6xoUqYo.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 80,
+  "fields": {
+    "category": 5,
+    "sku": "fab009",
+    "name": "Your 28-Day Journey to Stability and Confidence",
+    "description": "This 28-day program is meticulously structured to guide readers through a transformative sequence of routines that emphasize safe, effective movements that can be performed entirely at home.",
+    "price": "18.99",
+    "rating": "4.50",
+    "image_url": "https://i.ebayimg.com/images/g/tY0AAeSwpvFokPua/s-l500.webp",
+    "image": "flex-bal9_pDIX1lu.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 81,
+  "fields": {
+    "category": 5,
+    "sku": "fab010",
+    "name": "On Systemic Balance",
+    "description": "Arguing that society has pursued short-run approaches to decision-making that in the long term are counterproductive, On Systemic Balance presents a multidimensional and interdisciplinary alternative to problem solving.",
+    "price": "21.99",
+    "rating": "5.00",
+    "image_url": "https://i.ebayimg.com/images/g/GgoAAeSw2FtpGTtZ/s-l500.webp",
+    "image": "flex-bal10_1CyqtZ4.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 82,
+  "fields": {
+    "category": 5,
+    "sku": "fab011",
+    "name": "Fascia Release and Balance",
+    "description": "It teaches mind-body techniques using specialized balls and vivid imagery to release fascial tension, improve balance, and enhance movement by understanding how the body's connective tissues work.",
+    "price": "38.20",
+    "rating": "4.20",
+    "image_url": "https://i.ebayimg.com/images/g/hhAAAOSwu8FjKKE2/s-l500.webp",
+    "image": "flex-bal11_7yp4XNq.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 83,
+  "fields": {
+    "category": 5,
+    "sku": "fab012",
+    "name": "Stretching Scientifically: A Guide to Flexibility Training",
+    "description": "It is a comprehensive, science-based manual for athletes and coaches, explaining how to safely and effectively develop flexibility for sports like dance, martial arts, and weight training, covering dynamic, static active, and static passive methods.",
+    "price": "23.99",
+    "rating": "4.50",
+    "image_url": "https://i.ebayimg.com/images/g/CQIAAOSwQNRZwI6g/s-l500.webp",
+    "image": "flex-bal12_PiwsERn.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 84,
+  "fields": {
+    "category": 5,
+    "sku": "fab013",
+    "name": "The Miracle of Flexibility",
+    "description": "A gentle yet powerful full-body workout that lengthens and strengthens muscles through dynamic, continuous movements to increase range of motion, relieve chronic pain, and improve overall fitness.",
+    "price": "34.98",
+    "rating": "4.50",
+    "image_url": "https://i.ebayimg.com/images/g/GpgAAOSwsIBjVUlm/s-l500.webp",
+    "image": "flex-bal13_zDTQw3K.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 85,
+  "fields": {
+    "category": 5,
+    "sku": "fab014",
+    "name": "The Genius of Flexibility",
+    "description": "The Genius of Flexibility presents a 16-step stretching regimen for unique muscle groups that dramatically improves flexibility and strength while improving physiological strength also.",
+    "price": "23.99",
+    "rating": "4.60",
+    "image_url": "https://i.ebayimg.com/images/g/JmMAAeSwBYJpPHqO/s-l500.webp",
+    "image": "flex-bal14_gjKqL63.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 86,
+  "fields": {
+    "category": 5,
+    "sku": "fab015",
+    "name": "Muscles, Mobility & Movement",
+    "description": "The manual looks at how to fix technique faults and compensation patterns caused by mobility restrictions, muscular imbalances, and asymmetries taking an in-depth look at each individual muscle and detailing the best methods of increasing their flexibility, strength and muscular endurance.",
+    "price": "25.20",
+    "rating": "4.70",
+    "image_url": "https://i.ebayimg.com/images/g/BxoAAeSwrgtpSDdo/s-l500.webp",
+    "image": "flex-bal15_uZYVzVI.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 87,
+  "fields": {
+    "category": 6,
+    "sku": "na001",
+    "name": "THE GYM PEOPLE Women's longline sports bra",
+    "description": "Deep U design fashion, comfortable & breathable,ultra flattering with any type of leggings. Longline Sports Bra is a 4-way stretch fabric, offering great coverage and unconfined movement with a cool-silky feel during your practice.",
+    "price": "14.95",
+    "rating": "4.10",
+    "image_url": "https://m.media-amazon.com/images/I/71bTc1oS0SL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals1_2TJokxJ.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 88,
+  "fields": {
+    "category": 6,
+    "sku": "na002",
+    "name": "Womens Sport Racer Back Gym Tank Tops",
+    "description": "They are a line of activewear tops known for their moisture-wicking fabric, high stretchability, and flattering slim fit. They are designed to offer comfort and a full range of motion for various physical activities.",
+    "price": "59.99",
+    "rating": "4.50",
+    "image_url": "https://m.media-amazon.com/images/I/6183-lxIWHL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals2_KGl8JfJ.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 89,
+  "fields": {
+    "category": 6,
+    "sku": "na003",
+    "name": "Runhit men's 3/4 compression pants",
+    "description": "The Runhit men's 3/4 compression pants come in a two-pack with one black and one gray pair, offering muscle support, moisture-wicking fabric, and double pockets for athletic activities.",
+    "price": "17.99",
+    "rating": "4.70",
+    "image_url": "https://m.media-amazon.com/images/I/61MxDRcntXS._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals3_Gpgqm6K.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 90,
+  "fields": {
+    "category": 6,
+    "sku": "na004",
+    "name": "PHSYNI compact sports gym duffle bag",
+    "description": "The PHSYNI compact sports gym duffle bag in navy blue nylon fabric is a durable, multi-pocket, 16-inch (approx. 15-16 liter) bag designed for gym essentials, short trips, and as a personal item for air travel. It features specialized compartments for organization.",
+    "price": "28.00",
+    "rating": "4.40",
+    "image_url": "https://m.media-amazon.com/images/I/71oMLLZ3ybL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals4_DZbiMJv.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 91,
+  "fields": {
+    "category": 6,
+    "sku": "na005",
+    "name": "Trainers for Women Wide Fit Wedge Jogging Sneakers",
+    "description": "They are athletic-inspired shoes designed for comfort and style, featuring a wider fit for extra room in the toe box and a concealed or integrated wedge heel for added height and a fashionable look. They are suitable for casual wear, walking, and light exercise.",
+    "price": "17.65",
+    "rating": "4.80",
+    "image_url": "https://m.media-amazon.com/images/I/71pPu0gYrGS._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals5_sKomOrS.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 92,
+  "fields": {
+    "category": 6,
+    "sku": "na006",
+    "name": "New Balance SLEEK POCKET HIGH RISE LEGGING",
+    "description": "The New Balance SLEEK POCKET HIGH RISE LEGGING is a performance-focused, fitted legging designed for running and high-intensity workouts, featuring a high-rise waist and moisture-wicking fabric for comfort and support.",
+    "price": "21.99",
+    "rating": "3.10",
+    "image_url": "https://m.media-amazon.com/images/I/61vIbyJDSxL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals6_bsHJvpQ.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 93,
+  "fields": {
+    "category": 6,
+    "sku": "na007",
+    "name": "Fdx Men's Set Blitz Blue Skin Fit Compression Top & Leggings",
+    "description": "The FDX Men's Set Blitz Blue Skin Fit Compression Top & Leggings is a high-performance, lightweight base layer set made from a 4-way stretch, moisture-wicking fabric designed for intense workouts and outdoor activities in all seasons.",
+    "price": "41.99",
+    "rating": "3.40",
+    "image_url": "https://m.media-amazon.com/images/I/61cYpd3ISDL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals7_aXOdER2.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 94,
+  "fields": {
+    "category": 6,
+    "sku": "na008",
+    "name": "Oversized T-Shirt Men's Summer T-Shirt Crew Neck Short",
+    "description": "The Oversized T-Shirt Men's Summer T-Shirt Crew Neck Short is a loose-fitting, casual top designed for comfort and style in warm weather. It is generally made from breathable, lightweight fabrics such as a cotton blend or a polyester/spandex mix.",
+    "price": "14.48",
+    "rating": "4.90",
+    "image_url": "https://m.media-amazon.com/images/I/61ZlWqPw+iL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals8_pHtGWxF.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 95,
+  "fields": {
+    "category": 6,
+    "sku": "na009",
+    "name": "Bodyweight Training & Calisthenics",
+    "description": "It is designed to bridge the gap between simple home exercises and advanced bodyweight mastery. It emphasizes that while anyone can start with basic movements, the true path to strength lies in structured progression and a solid plan.",
+    "price": "34.00",
+    "rating": "4.10",
+    "image_url": "https://m.media-amazon.com/images/I/711WG-PWYbL._AC_SX644_CB1169409_QL70_.jpg",
+    "image": "new-arrivals9_zwdkMCf.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 96,
+  "fields": {
+    "category": 6,
+    "sku": "na010",
+    "name": "The 6-Week Resistance Training Book",
+    "description": "Uses minimal fitness equipment and utilises bodyweight training. Is a progressive workout routine designed for fast, sustainable results in weight loss and muscle tone. Is designed to effectively burn fat, tone muscle and develop cardiovascular fitness.",
+    "price": "22.96",
+    "rating": "4.20",
+    "image_url": "https://m.media-amazon.com/images/I/61hC-Gxnt0L._AC_SX644_CB1169409_QL70_.jpg",
+    "image": "new-arrivals10_nx3S5Jo.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 97,
+  "fields": {
+    "category": 6,
+    "sku": "na011",
+    "name": "Spring/Summer Casual Pants Men's 9-point Straight Sweatpant",
+    "description": "The Spring/Summer Casual Pants Men's 9-point Straight Sweatpant are lightweight, ankle-length trousers designed for warm weather, featuring a casual, straight-leg fit and often an elastic waistband with a drawstring.",
+    "price": "10.20",
+    "rating": "4.70",
+    "image_url": "https://m.media-amazon.com/images/I/61kcoXYPHjL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals11_GglJiz3.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 98,
+  "fields": {
+    "category": 6,
+    "sku": "na012",
+    "name": "HOMCOM Multifunctional Sit-Up Dumbbell Weight Bench",
+    "description": "With this multifunctional dumbbell bench from HOMCOM, you can do it all: chest presses, dumbbell rows, Romanian squats, curls, sit-ups and more. It's great for working out your arms, legs, back and abdomen, helping you improve overall strength and fitness.",
+    "price": "121.00",
+    "rating": "4.90",
+    "image_url": "https://m.media-amazon.com/images/I/61mmZWScxiL._AC_SX416_CB1169409_QL70_.jpg",
+    "image": "new-arrivals12_HC4Tsit.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 99,
+  "fields": {
+    "category": 6,
+    "sku": "na013",
+    "name": "Gymproluxe Original Resistance Bands Bar Set",
+    "description": "Bands Bar Set is a portable, full-body workout system using adjustable resistance bands and a detachable steel bar to mimic gym exercises like bench presses, rows, and curls.",
+    "price": "129.00",
+    "rating": "4.20",
+    "image_url": "https://m.media-amazon.com/images/I/71YWmRCdRJL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals13_2G6vjAE.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 100,
+  "fields": {
+    "category": 6,
+    "sku": "na014",
+    "name": "Gritin Resistance Bands",
+    "description": "Gritin Resistance Bands are versatile, skin-friendly latex loop bands offering five distinct resistance levels (color-coded: green, blue, yellow, red, black) for progressive strength training, yoga, Pilates, stretching, and physical therapy.",
+    "price": "37.99",
+    "rating": "4.40",
+    "image_url": "https://m.media-amazon.com/images/I/617NmwvU4tL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals14_yOzNcrO.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 101,
+  "fields": {
+    "category": 6,
+    "sku": "na015",
+    "name": "7-in-1 Ab Roller Wheel Kit",
+    "description": "It is a comprehensive home fitness package designed for a full-body workout, primarily focusing on core strength and muscle toning. The components work together to target various muscle groups including the abdomen, arms, chest, shoulders, and back.",
+    "price": "52.99",
+    "rating": "4.70",
+    "image_url": "https://m.media-amazon.com/images/I/516E5NxVyyL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals15_KSfcobn.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 102,
+  "fields": {
+    "category": 6,
+    "sku": "na016",
+    "name": "H&S Ab Roller",
+    "description": "Stable, smooth, and compact—solid roller for core work, warm-ups, or post-shift stretch sessions. Dual wheels give proper balance—no tipping or wobble, even on uneven floors. Rolls smooth and grips well, so you can push out without skidding or jerking.",
+    "price": "20.00",
+    "rating": "4.40",
+    "image_url": "https://m.media-amazon.com/images/I/71ystlkYtLL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals16_r0aIIvf.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 103,
+  "fields": {
+    "category": 6,
+    "sku": "na017",
+    "name": "Bluefin Fitness Ultra Slim Power Vibration Plate",
+    "description": "It is a compact, remote-controlled fitness machine that uses vertical vibrations to help tone muscles, improve circulation, and aid in weight loss and recovery at home. It features a silent motor for quiet operation and comes with included accessories like resistance cables.",
+    "price": "176.99",
+    "rating": "4.30",
+    "image_url": "https://m.media-amazon.com/images/I/71iiQ7s6I9L._AC_UL1280_FMwebp_QL65_.jpg",
+    "image": "new-arrivals17_9yKGeVJ.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 104,
+  "fields": {
+    "category": 6,
+    "sku": "na018",
+    "name": "Rubber hex dumbbell",
+    "description": "Made with vulcanised rubber-encased heads to enhance longevity while reducing noise, these dumbbells feature a hexagonal design to prevent rolling, making them safe and versatile for a wide range of exercises.",
+    "price": "62.00",
+    "rating": "4.50",
+    "image_url": "https://m.media-amazon.com/images/I/71YMXu4VxZL._AC_SX644_CB1169409_QL70_.jpg",
+    "image": "new-arrivals18_c3kmxQu.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 105,
+  "fields": {
+    "category": 6,
+    "sku": "na019",
+    "name": "ALongSong Pull Up Assistance Bands Set",
+    "description": "They are a versatile and efficient tool to improve physical strength and fitness level in the comfort of your home. Moreover, they are well-made, robust, and heavy-duty and are suitable for various workouts, including chin-ups, stretching and strength training.",
+    "price": "21.00",
+    "rating": "4.70",
+    "image_url": "https://m.media-amazon.com/images/I/81kX2kzd4OL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals19_WHsmJVS.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 106,
+  "fields": {
+    "category": 6,
+    "sku": "na020",
+    "name": "KUZARO Resistance Bands Set",
+    "description": "It is a portable fitness solution for targeting the legs, glutes, and hips, featuring three stackable resistance levels and a durable, dual-layer design. The bands can be used in combination for a maximum combined resistance of up to 60 lbs.",
+    "price": "20.99",
+    "rating": "4.30",
+    "image_url": "https://m.media-amazon.com/images/I/81Ol5OIdgYL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "new-arrivals20_wGqFdFZ.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 107,
+  "fields": {
+    "category": 7,
+    "sku": "dl001",
+    "name": "Treadmill for Home Walking Pad Foldable Home Desk",
+    "description": "A foldable home walking pad is a compact, portable under-desk treadmill designed for low-speed walking in home or office settings. Key features include a slim, often foldable, design for easy storage, quiet motor operation to prevent disturbances, and basic controls via a remote or app.",
+    "price": "250.00",
+    "rating": "4.20",
+    "image_url": "https://m.media-amazon.com/images/I/81yHTg9IKWL._AC_SX679_.jpg",
+    "image": "deals1_MYKGL9M.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 108,
+  "fields": {
+    "category": 7,
+    "sku": "dl002",
+    "name": "Hinshark LED Flashlight Gloves",
+    "description": "They are a practical, hands-free lighting solution made from a comfortable, stretchy nylon material with built-in LED lights on the index finger and thumb. They are designed for various tasks in low-light conditions, such as car repairs, fishing, camping, and electrical work.",
+    "price": "41.99",
+    "rating": "4.30",
+    "image_url": "https://m.media-amazon.com/images/I/71KocVyuyNL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals2_sES6wdk.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 109,
+  "fields": {
+    "category": 7,
+    "sku": "dl003",
+    "name": "TEKXYZ Boxing Reflex Ball",
+    "description": "Designed to provide an intense workout, this set includes four speed balls, two comfortable headbands, and extra cord for extended use.",
+    "price": "30.99",
+    "rating": "4.20",
+    "image_url": "https://m.media-amazon.com/images/I/81mUsBGIJnL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals3_xKxPQ9P.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 110,
+  "fields": {
+    "category": 7,
+    "sku": "dl004",
+    "name": "FitBeast hand grip strengthener",
+    "description": "The kit comes with a range of tools, including an adjustable resistance hand grip, finger stretcher, grip ring, and stress relief ball, which have all contributed to a comprehensive forearm and grip strengthening routine.",
+    "price": "27.45",
+    "rating": "4.20",
+    "image_url": "https://m.media-amazon.com/images/I/71abpcAkTDL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals4_tVncbVv.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 111,
+  "fields": {
+    "category": 7,
+    "sku": "dl005",
+    "name": "SLUNSE 5-in-1 foldable stationary exercise bike",
+    "description": "The SLUNSE 5 IN 1 Folding Indoor Workout Exercise Bike offers a comprehensive fitness solution for home use. With 16-level magnetic resistance and a focus on fat burning programs, this exercise bike provides a challenging and effective workout experience.",
+    "price": "280.00",
+    "rating": "4.80",
+    "image_url": "https://m.media-amazon.com/images/I/711U1hf3YwL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals5_Ac274C8.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 112,
+  "fields": {
+    "category": 7,
+    "sku": "dl006",
+    "name": "RISINGUKST Air Tumbling Track Gymnastics Mat",
+    "description": "It is an inflatable training mat made from durable, commercial-grade PVC and drop stitch material, designed to provide a safe, cushioned, and versatile surface for various fitness activities.",
+    "price": "138.99",
+    "rating": "4.80",
+    "image_url": "https://m.media-amazon.com/images/I/616m4VDQ7vL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals6_DGNEiI0.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 113,
+  "fields": {
+    "category": 7,
+    "sku": "dl007",
+    "name": "Vibration Plate Exercise Machine",
+    "description": "It is a piece of fitness equipment designed to stimulate muscle activity and improve physiological health through high-frequency mechanical oscillations.",
+    "price": "110.00",
+    "rating": "4.30",
+    "image_url": "https://m.media-amazon.com/images/I/71SD5rWytrL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals7_x0uRjoL.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 114,
+  "fields": {
+    "category": 7,
+    "sku": "dl008",
+    "name": "Sportsroyals Power Tower",
+    "description": "It is a sturdy, multi-functional piece of home gym equipment made from heavy-duty alloy steel that supports various bodyweight exercises.",
+    "price": "169.99",
+    "rating": "4.40",
+    "image_url": "https://m.media-amazon.com/images/I/61SI94CmeuL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals8_WOxB3UC.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 115,
+  "fields": {
+    "category": 7,
+    "sku": "dl009",
+    "name": "Yoleo Adjustable Weight Bench",
+    "description": "It is a versatile and foldable piece of home gym equipment, known for its sturdy steel construction and multiple position settings for full-body workouts.",
+    "price": "84.99",
+    "rating": "5.00",
+    "image_url": "https://m.media-amazon.com/images/I/71IEKr+9uQL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals9_nHVCv9s.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 116,
+  "fields": {
+    "category": 7,
+    "sku": "dl010",
+    "name": "Yosuda magnetic rowing machine",
+    "description": "This rower delivers a powerful, full-body workout for all fitness levels. Built for stability, its commercial-grade steel frame supports up to 350lb. The LCD monitor tracks six key metrics, keeping you motivated.",
+    "price": "188.99",
+    "rating": "4.40",
+    "image_url": "https://m.media-amazon.com/images/I/61fkxGYzcSL._AC_SX300_SY300_QL70_ML2_.jpg",
+    "image": "deals10_pBqxEhf.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 117,
+  "fields": {
+    "category": 7,
+    "sku": "dl011",
+    "name": "CyeeLife Darts Mat",
+    "description": "It is a lightweight, non-slip mat designed to provide a professional throwing area, protect your floor, and mark regulation throwing distances for both steel and soft-tip dartboards. It is made from a carpet fabric surface with a rubber backing.",
+    "price": "49.99",
+    "rating": "4.40",
+    "image_url": "https://m.media-amazon.com/images/I/71rmpHQXFwL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals11_EMedV0x.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 118,
+  "fields": {
+    "category": 7,
+    "sku": "dl012",
+    "name": "Sportneer adjustable ankle weights set",
+    "description": "It consists of a pair of wearable weights that can be customized in intensity by adding or removing individual sandbag inserts. They are designed for versatility and comfort during various fitness activities.",
+    "price": "37.99",
+    "rating": "4.40",
+    "image_url": "https://m.media-amazon.com/images/I/81HLrXNZHvL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals12_KcHb62t.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 119,
+  "fields": {
+    "category": 7,
+    "sku": "dl013",
+    "name": "BAGAIL microfiber travel towels",
+    "description": "BAGAIL microfiber travel towels are made of a lightweight, soft, and highly absorbent microfiber material designed to dry quickly and be ultra-compact for travel and sports.",
+    "price": "14.99",
+    "rating": "4.60",
+    "image_url": "https://m.media-amazon.com/images/I/71w+HJ934pL._AC_SX679_.jpg",
+    "image": "deals13_5odRFle.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 120,
+  "fields": {
+    "category": 7,
+    "sku": "dl014",
+    "name": "MEE GOO Quiet Adjustable Resistance Stair Stepper",
+    "description": "It is a compact, home-fitness device engineered to simulate stair climbing for a low-impact, full-body workout. It is specifically designed for users who prioritize space efficiency and quiet operation in a residential environment.",
+    "price": "100.60",
+    "rating": "3.60",
+    "image_url": "https://m.media-amazon.com/images/I/61mwRpqhiTL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals14_V2cKcdI.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 121,
+  "fields": {
+    "category": 7,
+    "sku": "dl015",
+    "name": "BAGAIL Weighted Vest",
+    "description": "It is a durable, adjustable fitness accessory designed to add resistance to a variety of workouts, including running, walking, and bodyweight exercises, for both men and women.",
+    "price": "38.99",
+    "rating": "4.60",
+    "image_url": "https://m.media-amazon.com/images/I/71kZtSw682L._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals15_UXn30RQ.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 122,
+  "fields": {
+    "category": 7,
+    "sku": "dl016",
+    "name": "BalanceFrom Puzzle Exercise Mats",
+    "description": "BalanceFrom Puzzle Exercise Mats feature high-density EVA foam interlocking tiles that create a comfortable, protective, and customizable flooring solution for various activities in a home gym, garage, or playroom.",
+    "price": "14.95",
+    "rating": "4.60",
+    "image_url": "https://m.media-amazon.com/images/I/91rnJ2NyZuL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals16_xVvmGoz.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 123,
+  "fields": {
+    "category": 7,
+    "sku": "dl017",
+    "name": "Ultimate Fitness & Workout Logbook",
+    "description": "It refers to several highly-rated physical tracking journals designed to help athletes and fitness enthusiasts document their training data, monitor physiological changes, and plan for future performance gains.",
+    "price": "9.46",
+    "rating": "4.60",
+    "image_url": "https://m.media-amazon.com/images/I/71Vz0pqxwCL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals17_Xsdicy3.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 124,
+  "fields": {
+    "category": 7,
+    "sku": "dl018",
+    "name": "Women MESUADESI Wrist Weights Set",
+    "description": "It is specifically designed to meet the aesthetic and functional needs of modern Pilates, yoga, and walking enthusiasts. These wearable weights prioritize a \"hands-free\" resistance experience, allowing you to intensify your workout without the bulk of traditional dumbbells.",
+    "price": "16.99",
+    "rating": "4.50",
+    "image_url": "https://m.media-amazon.com/images/I/71Z13MQLtpL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals18_vm0cuOw.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 125,
+  "fields": {
+    "category": 7,
+    "sku": "dl019",
+    "name": "Beenax 23cm Soft Pilates Ball",
+    "description": "The Beenax 23cm Soft Pilates Ball is a versatile, anti-burst exercise tool made of soft, flexible PVC with a non-slip texture, designed to enhance core strength, balance, and flexibility during various fitness activities.",
+    "price": "71.99",
+    "rating": "4.50",
+    "image_url": "https://m.media-amazon.com/images/I/71WAWSZ1QnS._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals19_dEl3GgG.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 126,
+  "fields": {
+    "category": 7,
+    "sku": "dl020",
+    "name": "Sportneer Adjustable Dumbbells Set",
+    "description": "It is a compact, space-saving fitness solution that allows for quick and easy weight changes, making it ideal for home workouts across various fitness levels. The dumbbells feature a secure locking system and non-slip handles for safety and comfort during use.",
+    "price": "47.99",
+    "rating": "4.80",
+    "image_url": "https://m.media-amazon.com/images/I/71RIHoxLiWL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image": "deals20_cPVJFwk.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 127,
+  "fields": {
+    "category": 8,
+    "sku": "cl001",
+    "name": "Nike Park VII short sleeve jersey",
+    "description": "The Nike Park VII Short Sleeve Jersey is a lightweight sports top designed for comfort and performance, featuring sweat-wicking Dri-FIT technology and a breathable mesh back panel. It is made with at least 75% recycled polyester fibers.",
+    "price": "27.00",
+    "rating": "4.40",
+    "image_url": "https://m.media-amazon.com/images/I/51TLvCPumbL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "clearance1_S8KmBl7.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 128,
+  "fields": {
+    "category": 8,
+    "sku": "cl002",
+    "name": "Adidas Essentials 3-Stripes",
+    "description": "They are constructed from a smooth, lightweight woven fabric, specifically 100% recycled polyester, which contributes to sustainability efforts. An elastic waist with an adjustable drawcord ensures a secure and customizable fit.",
+    "price": "23.45",
+    "rating": "4.60",
+    "image_url": "https://m.media-amazon.com/images/I/71kt5rpH-IL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "clearance2_zj0Akrl.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 129,
+  "fields": {
+    "category": 8,
+    "sku": "cl003",
+    "name": "Adidas Essentials 3-Stripes cotton leggings",
+    "description": "They are tight-fitting, stretchy leggings made primarily of soft cotton designed for comfort and versatile, everyday wear. They feature the iconic adidas 3-Stripes running down the sides and a small adidas Badge of Sport logo on the left hip/leg.",
+    "price": "25.00",
+    "rating": "4.40",
+    "image_url": "https://m.media-amazon.com/images/I/51hfPwQr6ML._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "clearance3_XwzIk3b.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 130,
+  "fields": {
+    "category": 8,
+    "sku": "cl004",
+    "name": "Fragraim adjustable ankle weights",
+    "description": "They are versatile fitness accessories designed to add customizable resistance to a wide range of physical activities, including jogging, aerobics, core training, and physical therapy.",
+    "price": "17.00",
+    "rating": "4.50",
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71vfTj5iwFL._AC_UL330_SR330,330_.jpg",
+    "image": "clearance4_qCdOXib.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 131,
+  "fields": {
+    "category": 8,
+    "sku": "cl005",
+    "name": "Duffel Bag",
+    "description": "It is a spacious, lightweight, and foldable bag made primarily of durable nylon or polyester (depending on the specific model) designed for travel or storage purposes. It features multiple pockets for organization and can carry up to 50 pounds of gear.",
+    "price": "17.99",
+    "rating": "4.60",
+    "image_url": "https://m.media-amazon.com/images/I/71iuJR1FngL._AC_UL640_FMwebp_QL65_.jpg",
+    "image": "clearance5_2hUyw69.webp"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 132,
+  "fields": {
+    "category": 8,
+    "sku": "cl006",
+    "name": "BeMaxx interlocking foam floor tiles",
+    "description": "They are high-density EVA foam mats designed to provide a durable, cushioned, and protective flooring solution for various indoor spaces. They feature a puzzle-piece design for easy assembly and customization.",
+    "price": "32.00",
+    "rating": "4.40",
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91oQq8R3avL._AC_UL330_SR330,330_.jpg",
+    "image": "clearance6_i8QYHyT.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 133,
+  "fields": {
+    "category": 8,
+    "sku": "cl007",
+    "name": "Harrows Nylon Fibre Darts Mat",
+    "description": "It is a lightweight, odourless mat with an anti-slip backing that is designed to protect floors from dart damage and features official tournament oche measurements.",
+    "price": "45.00",
+    "rating": "4.60",
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81oxY2qM3oL._AC_UL330_SR330,330_.jpg",
+    "image": "clearance7_OVkuf0I.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 134,
+  "fields": {
+    "category": 8,
+    "sku": "cl008",
+    "name": "Gorilla Fit A5 Gym Log Book",
+    "description": "The Gorilla Fit A5 Gym Log Book is a premium, purpose-built fitness journal designed to help both beginners and experienced athletes document their training with professional-level precision.",
+    "price": "10.71",
+    "rating": "4.80",
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61F3sF8VP5L._AC_UL330_SR330,330_.jpg",
+    "image": "clearance8_4SSca4I.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 135,
+  "fields": {
+    "category": 8,
+    "sku": "cl009",
+    "name": "Gallant Weight Plates",
+    "description": "They are budget-friendly, round, black weight plates with a cement filling encased in a durable vinyl coating, designed to fit all standard 1-inch diameter bars.",
+    "price": "49.00",
+    "rating": "4.50",
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71EYYa+8FRL._AC_UL330_SR330,330_.jpg",
+    "image": "clearance9_aqLEEPy.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 136,
+  "fields": {
+    "category": 8,
+    "sku": "cl010",
+    "name": "CRZ YOGA Women's Butterluxe Square Neck",
+    "description": "It is a line of soft, lightweight, and stretchy activewear designed primarily for low-impact activities like yoga and lounging. It features a flattering square neckline and a built-in bra with removable pads for convenience.",
+    "price": "34.00",
+    "rating": "4.70",
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71P34yz9qIL._AC_UL330_SR330,330_.jpg",
+    "image": "clearance10_Ix2YuuR.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 137,
+  "fields": {
+    "category": 8,
+    "sku": "cl011",
+    "name": "Iron Lab Olympic Barbell Clamp",
+    "description": "It is a professional-grade gym accessory designed specifically to secure weight plates on a standard 2-inch (50mm) Olympic barbell sleeve.The cam clamp locks securely onto the bar. You will feel much more confident and have more pleasant training sessions.",
+    "price": "14.50",
+    "rating": "4.70",
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71kh-9I0ZCL._AC_UL330_SR330,330_.jpg",
+    "image": "clearance11_FeuV2SR.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 138,
+  "fields": {
+    "category": 8,
+    "sku": "cl012",
+    "name": "FitBeast resistance band",
+    "description": "FitBeast resistance bands are durable, multi-purpose fitness tools typically made from natural latex or TPE that come in varying resistance levels for a full-body workout. They are designed for versatility, portability, and suitability for all fitness levels.",
+    "price": "6.99",
+    "rating": "4.60",
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71MeXlC+jFL._AC_UL330_SR330,330_.jpg",
+    "image": "clearance12_vvlF8jr.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 139,
+  "fields": {
+    "category": 8,
+    "sku": "cl013",
+    "name": "Fitness Logbook",
+    "description": "It is a specialized physical training diary designed to help athletes of all levels meticulously document their fitness journeys, specifically engineered for portability and longevity, ensuring it can survive being tossed into a sweaty gym bag or dropped on the gym floor.",
+    "price": "11.99",
+    "rating": "4.60",
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61TCJsQbPrL._AC_UL330_SR330,330_.jpg",
+    "image": "clearance13_ELHViVv.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 140,
+  "fields": {
+    "category": 8,
+    "sku": "cl014",
+    "name": "Mini Stepper Exercise Machine",
+    "description": "This compact device, often described as a miniature version of a commercial stair climber, provides a versatile platform for both cardiovascular conditioning and targeted muscle toning, all within a footprint typically no larger than a standard shoe box.",
+    "price": "29.00",
+    "rating": "4.00",
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61zENEZ5IXL._AC_UL330_SR330,330_.jpg",
+    "image": "clearance14_OITyj1S.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 141,
+  "fields": {
+    "category": 8,
+    "sku": "cl015",
+    "name": "KK Neoprene Ankle Straps",
+    "description": "They are specifically designed to be lightweight enough for beginners while providing a significant boost to muscle activation and caloric burn during lower-body workouts.",
+    "price": "52.00",
+    "rating": "4.40",
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Te5rGbY8L._AC_UL330_SR330,330_.jpg",
+    "image": "clearance15_xAUsKmH.jpg"
+  }
+}
+]

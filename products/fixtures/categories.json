@@ -1,0 +1,66 @@
+[
+{
+  "model": "products.category",
+  "pk": 1,
+  "fields": {
+    "name": "Activewear & Essentials",
+    "friendly_name": "fitwear"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 2,
+  "fields": {
+    "name": "Nutrition Plans",
+    "friendly_name": "nutritionplan"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 3,
+  "fields": {
+    "name": "Fitness Products",
+    "friendly_name": "fitproduct"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 4,
+  "fields": {
+    "name": "Full Body Routine",
+    "friendly_name": "exerciseplan"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 5,
+  "fields": {
+    "name": "Flexibility & Balance",
+    "friendly_name": "flex-bal"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 6,
+  "fields": {
+    "name": "New Arrivals",
+    "friendly_name": "new-arrivals"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 7,
+  "fields": {
+    "name": "Deals",
+    "friendly_name": "deals"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 8,
+  "fields": {
+    "name": "Clearance",
+    "friendly_name": "clearance"
+  }
+}
+]
