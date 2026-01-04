@@ -142,8 +142,8 @@ FitRush is designed to:
 
 + **Deals & Promotions**
 
-    Dedicated Deals page.
-    Clearance section for discounted products.
+    - Dedicated Deals page.
+    - Clearance section for discounted products.
 
 + **Defensive Design**
 
@@ -251,19 +251,19 @@ FITRUSH/
 ### Wireframes
 
 ### Desktop
-- [Desktop Homepage Wireframe]()
-- [Desktop Questionspage Wireframe]()
-- [Desktop Feedbackpage Wireframe]()
+- [Desktop Homepage Wireframe](documentation-images/homepage-desktop.png)
+- [Desktop Questionspage Wireframe](documentation-images/products-desktop.png)
+- [Desktop Feedbackpage Wireframe](documentation-images/profile-desktop.png)
 
-### Tablets
-- [Tablets Homepage Wireframe]()
-- [Tablets Questionspage Wireframe]()
-- [Tablets Feedbackpage Wireframe]()
+### Tablet
+- [Tablets Homepage Wireframe](documentation-images/homepage-tablet.png)
+- [Tablets Questionspage Wireframe](documentation-images/products-tablet.png)
+- [Tablets Feedbackpage Wireframe](documentation-images/profile-tablet.png)
 
 ### Mobile
-- [Mobile Homepage Wireframe]()
-- [Mobile Questionspage Wireframe]()
-- [Mobile Feedbackpage Wireframe]()
+- [Mobile Homepage Wireframe](documentation-images/homepage-mobile.png)
+- [Mobile Questionspage Wireframe](documentation-images/products-mobile.png)
+- [Mobile Feedbackpage Wireframe](documentation-images/profile-mobile.png)
 
 ---
 
