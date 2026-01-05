@@ -152,6 +152,94 @@ FitRush is designed to:
     - Prevention of invalid actions such as empty checkouts.
     - Feedback messages for user actions.
 
+## Keyword Research – FitRush
+
+Keyword research was carried out to improve the website’s SEO visibility and ensure the content aligns with what potential users are searching for online.
+
+---
+
+### 1. Brainstorm General Topics
+
+The first step was identifying broad topics related to the FitRush brand and its offerings.
+
+General topics identified:
+- Fitness brand 
+- Gym wear
+- Fitness equipment
+- Nutrition plans
+- Workout plans
+- Online fitness store
+- Fitness deals and discounts
+
+---
+
+### 2. Brain Dump Possible Keywords for Each Topic
+
+A list of possible keywords was generated for each general topic, focusing on how users might search for FitRush or similar fitness services.
+
+**FitRush / Brand**
+- FitRush
+- Fit Rush fitness
+- FitRush gym store
+- FitRush fitness products
+
+**Gym Wear**
+- gym wear online
+- fitness clothing
+- men’s gym wear
+- women’s gym wear
+- workout clothes online
+
+**Fitness Equipment**
+- home gym equipment
+- fitness equipment online
+- gym equipment store
+- affordable gym equipment
+
+**Nutrition & Workout Plans**
+- fitness nutrition plans
+- workout plans online
+- beginner workout plan
+- muscle building meal plan
+
+**Deals & Promotions**
+- fitness deals
+- gym wear discounts
+- fitness clearance sale
+- workout gear offers
+
+---
+
+### 3. Research Keywords Using Google Search
+
+Each keyword idea was researched using Google Search to:
+- Review autocomplete suggestions
+- Analyze “People also search for” results
+- Identify related search terms
+- Understand user search intent
+
+---
+
+### 4. Short-Tail and Long-Tail Keyword Selection
+
+A balanced mix of short-tail and long-tail keywords was selected.
+
+#### Short-Tail Keywords
+- FitRush
+- gym wear
+- fitness equipment
+- workout plans
+- nutrition plans
+
+#### Long-Tail Keywords
+- FitRush online fitness store
+- buy gym wear online
+- affordable fitness equipment
+- beginner workout plans online
+- fitness nutrition plans for beginners
+
+---
+
 ## Technologies used
 
 ### Languages:
@@ -335,25 +423,6 @@ Create a local copy of the GitHub repository by following one of the two process
     - Add /admin/ to the link provided.
     - Enter your username and password (for the superuser that you have created before).
     - You will be redirected to the admin page.
-
----
-
-## Bugs
-
-+ **Solved bugs**
-
-### 1. 
-
-### 2. 
-
-### 3. 
-
-### 4. 
-
-### 5. 
-
-+ **Unsolved bugs**
-  - None
 
 ---
 
