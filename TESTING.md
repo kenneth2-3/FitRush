@@ -8,15 +8,15 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
   - Chrome:
 
-  ![Chrome](documentation-images/compatibility-chrome.mov)
+  ![Chrome](documentation-images/)
 
   - FireFox:
 
-  ![FireFox](documentation-images/compatibility-firefox.mov)
+  ![FireFox](documentation-images/)
 
   - Safari:
 
-  ![Safari](documentation-images/compatibility-safari.mov)
+  ![Safari](documentation-images/)
 
 ## Responsiveness
 
