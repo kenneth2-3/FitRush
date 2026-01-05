@@ -30,23 +30,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
   - ![Safari](documentation-images/safari-compatibility-4.png)
   - ![Safari](documentation-images/safari-compatibility-5.png)
 
-## Responsiveness
 
-- The website was checked by devtools implemented in Firefox and Chrome browsers.
-
-    - Chrome:
-
-   - ![Chrome](documentation-images/chrome-responsiveness-1.png)
-   - ![Chrome](documentation-images/chrome-responsiveness-2.png)
-   - ![Chrome](documentation-images/chrome-responsiveness-3.png)
-   - ![Chrome](documentation-images/chrome-responsiveness-4.png)
-
-    - Firefox:
-
-   - ![FireFox](documentation-images/firefox-responsiveness-1.png)
-   - ![FireFox](documentation-images/firefox-responsiveness-2.png)
-   - ![FireFox](documentation-images/firefox-responsiveness-3.png)
-   - ![FireFox](documentation-images/firefox-responsiveness-4.png)
 
 
 ## Manual Testing
@@ -131,7 +115,21 @@ In order to confirm the correct functionality, responsiveness, and appearance:
     
   ### All Sections
 
+  ![Home Page Lighthouse](documentation-images/lighthouse-report-home-page.png)
 
+  ![Shopping Bag Page Lighthouse](documentation-images/lighthouse-report-add-bag.png)
+
+  ![Exercise Plan Page Lighthouse](documentation-images/lighthouse-report-exercise-plan.png)
+
+   ![Nutrition & Fit Page Lighthouse](documentation-images/lighthouse-report-nutrition-fit.png)
+
+   ![Products Page Lighthouse](documentation-images/lighthouse-report-products-page.png)
+
+   ![Profile Page Lighthouse](documentation-images/lighthouse-report-profile-page.png)
+
+   ![Sign Out Page Lighthouse](documentation-images/lighthouse-report-sign-out.png)
+
+   ![Special Offers Page Lighthouse](documentation-images/lighthouse-report-special-offers.png)
 
 
 ## Bugs
