@@ -8,15 +8,27 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
   - Chrome:
 
-  ![Chrome](documentation-images/)
+  - ![Chrome](documentation-images/chrome-compatibility-1.png)
+  - ![Chrome](documentation-images/chrome-compatibility-2.png)
+  - ![Chrome](documentation-images/chrome-compatibility-3.png)
+  - ![Chrome](documentation-images/chrome-compatibility-4.png)
+  - ![Chrome](documentation-images/chrome-compatibility-5.png)
 
   - FireFox:
 
-  ![FireFox](documentation-images/)
+  - ![FireFox](documentation-images/firefox-compatibility-1.png)
+  - ![FireFox](documentation-images/firefox-compatibility-2.png)
+  - ![FireFox](documentation-images/firefox-compatibility-3.png)
+  - ![FireFox](documentation-images/firefox-compatibility-4.png)
+  - ![FireFox](documentation-images/firefox-compatibility-5.png)
 
   - Safari:
 
-  ![Safari](documentation-images/)
+  - ![Safari](documentation-images/safari-compatibility-1.png)
+  - ![Safari](documentation-images/safari-compatibility-2.png)
+  - ![Safari](documentation-images/safari-compatibility-3.png)
+  - ![Safari](documentation-images/safari-compatibility-4.png)
+  - ![Safari](documentation-images/safari-compatibility-5.png)
 
 ## Responsiveness
 
@@ -24,11 +36,17 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Chrome:
 
-   - ![All Sections](documentation-images/responsiveness-chrome.mov)
+   - ![Chrome](documentation-images/chrome-responsiveness-1.png)
+   - ![Chrome](documentation-images/chrome-responsiveness-2.png)
+   - ![Chrome](documentation-images/chrome-responsiveness-3.png)
+   - ![Chrome](documentation-images/chrome-responsiveness-4.png)
 
     - Firefox:
 
-   - ![All Sections](documentation-images/responsiveness-firefox.mov)
+   - ![FireFox](documentation-images/firefox-responsiveness-1.png)
+   - ![FireFox](documentation-images/firefox-responsiveness-2.png)
+   - ![FireFox](documentation-images/firefox-responsiveness-3.png)
+   - ![FireFox](documentation-images/firefox-responsiveness-4.png)
 
 
 ## Manual Testing
