@@ -131,21 +131,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
     
   ### All Sections
 
-  ![Home Page Lighthouse](documentation-images/lighthouse-report-home-page.png)
 
-  ![Shopping Bag Page Lighthouse](documentation-images/lighthouse-report-add-bag.png)
-
-  ![Exercise Plan Page Lighthouse](documentation-images/lighthouse-report-exercise-plan.png)
-
-   ![Nutrition & Fit Page Lighthouse](documentation-images/lighthouse-report-nutrition-fit.png)
-
-   ![Products Page Lighthouse](documentation-images/lighthouse-report-products-page.png)
-
-   ![Profile Page Lighthouse](documentation-images/lighthouse-report-profile-page.png)
-
-   ![Sign Out Page Lighthouse](documentation-images/lighthouse-report-sign-out.png)
-
-   ![Special Offers Page Lighthouse](documentation-images/lighthouse-report-special-offers.png)
 
 
 ## Bugs
