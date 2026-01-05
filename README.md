@@ -286,7 +286,9 @@ A balanced mix of short-tail and long-tail keywords was selected.
 
 - [Font Awesome](https://fontawesome.com/): was used to create the icons used in the website.
 
- - [BootStrap](https://getbootstrap.com/): was used to get some css and html codes that were then customized.
+- [BootStrap](https://getbootstrap.com/): was used to get some css and html codes that were then customized.
+
+- [Mailchimp](https://www.mailchimp.com): Was used to generate the newsletter.
 
 - [AWS](https://aws.amazon.com/): was used to store the images and static files.
 
@@ -354,6 +356,11 @@ FITRUSH/
 - [Mobile Feedbackpage Wireframe](documentation-images/profile-mobile.png)
 
 ---
+
+## Social
+### Facebook
+- [Screenshot Of Post](documentation-images/facebook-page-post.png)
+- [Screenshot Of Page](documentation-images/facebook-full-page.png)
 
 ## Testing
 

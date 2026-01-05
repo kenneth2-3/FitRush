@@ -175,6 +175,19 @@ input[name='q']::placeholder {
     overflow-y: auto;
 }
 
+/* Mailchimp */
+#mc_embed_signup {
+    max-width: 400px;
+}
+
+#mc_embed_signup label {
+    font-weight: 600;
+}
+
+#mc_embed_signup .btn {
+    width: 100%;
+}
+
 
 /* ---------------- Media Queries */
 
