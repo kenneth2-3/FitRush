@@ -24,11 +24,11 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Chrome:
 
-    ![All Sections](documentation-images/responsiveness-chrome.mov)
+   - ![All Sections](documentation-images/responsiveness-chrome.mov)
 
     - Firefox:
 
-    ![All Sections](documentation-images/responsiveness-firefox.mov)
+   - ![All Sections](documentation-images/responsiveness-firefox.mov)
 
 
 ## Manual Testing
@@ -95,7 +95,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
    + **Checkout_js**
         ![JS Validator](documentation-images/validator-checkout-js.png)
 
-    + **Profile_js**
+   + **Profile_js**
         ![JS Validator](documentation-images/validator-profile-js.png)
 
    - ### JSON  
@@ -103,7 +103,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
    + **Categories.json**
         ![JSON Validator](documentation-images/validator-categories-json.png)
 
-    + **Products.json**
+   + **Products.json**
         ![JSON Validator](documentation-images/validator-products-json.png)
 
 
