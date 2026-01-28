@@ -342,18 +342,18 @@ FITRUSH/
 
 ### Desktop
 - [Desktop Homepage Wireframe](documentation-images/homepage-desktop.png)
-- [Desktop Questionspage Wireframe](documentation-images/products-desktop.png)
-- [Desktop Feedbackpage Wireframe](documentation-images/profile-desktop.png)
+- [Desktop Productspage Wireframe](documentation-images/products-desktop.png)
+- [Desktop Profilepage Wireframe](documentation-images/profile-desktop.png)
 
 ### Tablet
 - [Tablets Homepage Wireframe](documentation-images/homepage-tablet.png)
-- [Tablets Questionspage Wireframe](documentation-images/products-tablet.png)
-- [Tablets Feedbackpage Wireframe](documentation-images/profile-tablet.png)
+- [Tablets Productspage Wireframe](documentation-images/products-tablet.png)
+- [Tablets Profilepage Wireframe](documentation-images/profile-tablet.png)
 
 ### Mobile
 - [Mobile Homepage Wireframe](documentation-images/homepage-mobile.png)
-- [Mobile Questionspage Wireframe](documentation-images/products-mobile.png)
-- [Mobile Feedbackpage Wireframe](documentation-images/profile-mobile.png)
+- [Mobile Productspage Wireframe](documentation-images/products-mobile.png)
+- [Mobile Profilepage Wireframe](documentation-images/profile-mobile.png)
 
 ---
 
